@@ -13,7 +13,9 @@ ideologies = {
 			american_nationalist = {
 			}
 			
-			
+			authoritarian_democracy = {
+			}
+
 		}
 		
 		dynamic_faction_names = {

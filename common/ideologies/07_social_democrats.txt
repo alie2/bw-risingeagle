@@ -4,12 +4,15 @@ ideologies = {
 		
 		types = {
 		
-			new_democrat_ideology = {
+			american_socialist = {
 			}
 
 			progressive = {
 			}
-			
+
+			social_democracy ={
+			}
+
 		}
 		
 		dynamic_faction_names = {

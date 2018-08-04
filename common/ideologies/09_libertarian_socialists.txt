@@ -4,12 +4,6 @@ ideologies = {
 		
 		types = {
 		
-			revolutionary_socialist_ideology = {
-			}
-			
-			american_revolutionary_socialism = {
-			}
-			
 			luxemburgism = {
 			}
 			

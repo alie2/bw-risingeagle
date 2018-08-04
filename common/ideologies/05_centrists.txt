@@ -12,6 +12,9 @@ ideologies = {
 			
 			centrist_populist = {
 			}
+
+			market_liberal = {
+			}
 			
 		}
 		

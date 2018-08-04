@@ -6,7 +6,16 @@ ideologies = {
 		
 			absolute_monarchist = {
 			}
-			
+
+			privy_council = {
+			}
+
+			trasitional_council = {
+			}
+
+			parliamentary_consitutional_monarchy = {
+			}
+	
 		}
 		
 		dynamic_faction_names = {
