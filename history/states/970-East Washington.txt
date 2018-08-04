@@ -1,0 +1,21 @@
+state={
+	id=970
+	name="STATE_970"
+	
+	history={
+		owner = PCA
+		add_core_of = CSD
+		buildings = {
+			infrastructure = 4
+
+		}
+		add_core_of = PCA
+
+	}
+	provinces={
+		1320 7255 7442 10155 10198 10327 12155 12214 
+	}
+	manpower=1000000
+	buildings_max_level_factor=1.000
+	state_category=rural
+}

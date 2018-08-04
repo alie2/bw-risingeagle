@@ -1,10 +1,13 @@
 ideologies = {
 
-	new_democrat = {
+	social_democrat = {
 		
 		types = {
 		
 			new_democrat_ideology = {
+			}
+
+			progressive = {
 			}
 			
 		}

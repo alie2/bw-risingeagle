@@ -1,13 +1,10 @@
 ideologies = {
 
-	moderate_socialist = {
+	democratic_socialist = {
 		
 		types = {
 		
 			democratic_socialist = {
-			}
-			
-			progressive = {
 			}
 			
 			european_moderate_socialist = {

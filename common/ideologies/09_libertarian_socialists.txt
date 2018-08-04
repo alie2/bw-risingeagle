@@ -1,6 +1,6 @@
 ideologies = {
 
-	revolutionary_socialist = {
+	libertarian_socialist = {
 		
 		types = {
 		
